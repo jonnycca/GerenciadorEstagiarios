@@ -1,0 +1,29 @@
+c:\users\johnn\documents\visual studio 2017\Projects\Gerenciador Estagio\Gerenciador Estagio\bin\Debug\Gerenciador Estagio.exe.config
+c:\users\johnn\documents\visual studio 2017\Projects\Gerenciador Estagio\Gerenciador Estagio\bin\Debug\Gerenciador Estagio.exe
+c:\users\johnn\documents\visual studio 2017\Projects\Gerenciador Estagio\Gerenciador Estagio\bin\Debug\Gerenciador Estagio.pdb
+c:\users\johnn\documents\visual studio 2017\Projects\Gerenciador Estagio\Gerenciador Estagio\bin\Debug\MySql.Data.dll
+c:\users\johnn\documents\visual studio 2017\Projects\Gerenciador Estagio\Gerenciador Estagio\bin\Debug\MySql.Data.xml
+c:\users\johnn\documents\visual studio 2017\Projects\Gerenciador Estagio\Gerenciador Estagio\obj\Debug\Gerenciador Estagio.csprojResolveAssemblyReference.cache
+c:\users\johnn\documents\visual studio 2017\Projects\Gerenciador Estagio\Gerenciador Estagio\obj\Debug\Gerenciador_Estagio.FrmLogin.resources
+c:\users\johnn\documents\visual studio 2017\Projects\Gerenciador Estagio\Gerenciador Estagio\obj\Debug\Gerenciador_Estagio.Properties.Resources.resources
+c:\users\johnn\documents\visual studio 2017\Projects\Gerenciador Estagio\Gerenciador Estagio\obj\Debug\Gerenciador Estagio.csproj.GenerateResource.Cache
+c:\users\johnn\documents\visual studio 2017\Projects\Gerenciador Estagio\Gerenciador Estagio\obj\Debug\Gerenciador Estagio.csproj.CoreCompileInputs.cache
+c:\users\johnn\documents\visual studio 2017\Projects\Gerenciador Estagio\Gerenciador Estagio\obj\Debug\Gerenciador Estagio.exe
+c:\users\johnn\documents\visual studio 2017\Projects\Gerenciador Estagio\Gerenciador Estagio\obj\Debug\Gerenciador Estagio.pdb
+c:\users\johnn\documents\visual studio 2017\Projects\Gerenciador Estagio\Gerenciador Estagio\obj\Debug\Gerenciador_Estagio.FrmPrincipal.resources
+c:\users\johnn\documents\visual studio 2017\Projects\Gerenciador Estagio\Gerenciador Estagio\obj\Debug\Gerenciador_Estagio.FrmCadastrarEstagiario.resources
+E:\Arquivos\Gerenciador de estágio\Gerenciador Estagio\Gerenciador Estagio\bin\Debug\Gerenciador Estagio.exe.config
+E:\Arquivos\Gerenciador de estágio\Gerenciador Estagio\Gerenciador Estagio\bin\Debug\Gerenciador Estagio.exe
+E:\Arquivos\Gerenciador de estágio\Gerenciador Estagio\Gerenciador Estagio\bin\Debug\Gerenciador Estagio.pdb
+E:\Arquivos\Gerenciador de estágio\Gerenciador Estagio\Gerenciador Estagio\bin\Debug\MySql.Data.dll
+E:\Arquivos\Gerenciador de estágio\Gerenciador Estagio\Gerenciador Estagio\bin\Debug\MySql.Data.xml
+E:\Arquivos\Gerenciador de estágio\Gerenciador Estagio\Gerenciador Estagio\obj\Debug\Gerenciador Estagio.csprojResolveAssemblyReference.cache
+E:\Arquivos\Gerenciador de estágio\Gerenciador Estagio\Gerenciador Estagio\obj\Debug\Gerenciador_Estagio.FrmLogin.resources
+E:\Arquivos\Gerenciador de estágio\Gerenciador Estagio\Gerenciador Estagio\obj\Debug\Gerenciador_Estagio.FrmCadastrarEstagiario.resources
+E:\Arquivos\Gerenciador de estágio\Gerenciador Estagio\Gerenciador Estagio\obj\Debug\Gerenciador_Estagio.FrmPrincipal.resources
+E:\Arquivos\Gerenciador de estágio\Gerenciador Estagio\Gerenciador Estagio\obj\Debug\Gerenciador_Estagio.Properties.Resources.resources
+E:\Arquivos\Gerenciador de estágio\Gerenciador Estagio\Gerenciador Estagio\obj\Debug\Gerenciador Estagio.csproj.GenerateResource.Cache
+E:\Arquivos\Gerenciador de estágio\Gerenciador Estagio\Gerenciador Estagio\obj\Debug\Gerenciador Estagio.csproj.CoreCompileInputs.cache
+E:\Arquivos\Gerenciador de estágio\Gerenciador Estagio\Gerenciador Estagio\obj\Debug\Gerenciador Estagio.exe
+E:\Arquivos\Gerenciador de estágio\Gerenciador Estagio\Gerenciador Estagio\obj\Debug\Gerenciador Estagio.pdb
+C:\Users\johnn\Documents\Visual Studio 2017\Projects\Gerenciador Estagio\Gerenciador Estagio\obj\Debug\Gerenciador_Estagio.FrmExibirEstagiario.resources
